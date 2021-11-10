@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Write an implementation of an alphanumeric sort.sort. In this case, we should sort numbers first,
+1. Write an implementation of an alphanumeric sort. In this case, we should sort numbers first,
 followed by lowercase letters, uppercase letters and then all other characters. The special case
 here is that if any two numerical characters are next to each other
 2. Write the smallest possible test case in Rspec that matches what validates the input is valid
